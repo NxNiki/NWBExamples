@@ -1,0 +1,10 @@
+# Task Information
+name: T3
+description: >-
+    This is a description of a thing
+    that uses a whole bunch of words.
+events_description: >
+    The events in this
+task_run_version: XX
+revision_date: XX
+run_platform: XX
