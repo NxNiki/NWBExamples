@@ -42,8 +42,9 @@ Some of the examples use an openly available NWB-formatted dataset, which contai
 unit recordings from human patients during a 'Recognition Memory' (RM) task.
 
 Data & associated files for this release are available at
-- Data: [OSF repository](https://osf.io/cd6qp/)
-- Code: [Github repository](https://github.com/rutishauserlab/recogmem-release-NWB).
+- Data: [OSF repository](https://osf.io/hv7ja/)
+    - To download the NWB files, click on the `NWBData.zip` file in the file list
+- Code: [Github repository](https://github.com/rutishauserlab/recogmem-release-NWB)
 
 This dataset is described in the following paper:
 - [Chandravadia et al, 2020 - A NWB-based dataset](https://doi.org/10.1038/s41597-020-0415-9)
