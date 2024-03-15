@@ -2,3 +2,4 @@ numpy
 pynwb
 pyyaml
 spikeinterface
+jupyterlab
